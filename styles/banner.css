@@ -1,3 +1,4 @@
+
 .banner {
     background: var(--azul-degrade);
     color: var(--branco);
@@ -12,7 +13,7 @@
 
 .banner__texto {
     font-weight: 500;
-    margin: 1em0;
+    margin: 1em 0;
 }
 
 .banner__pesquisa {
